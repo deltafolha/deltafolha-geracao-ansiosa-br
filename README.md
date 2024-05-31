@@ -1,4 +1,4 @@
-# Códigos utilizados para análises da matéria _Registros de Ansiedade entre Crianças e Jovens Superam os de Adultos pela 1ª_ na Folha de São Paulo
+# Códigos utilizados para análises da matéria _Registros de ansiedade entre crianças e jovens superam os de adultos pela 1ª vez_  na Folha de São Paulo
 
 
 A matéria adaptou análises presentes no livro "The Anxious Generation" de Jonathan Haidt para o Brasil, utilizando dados do SUS, IBGE e Pisa.
