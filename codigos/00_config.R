@@ -50,7 +50,7 @@ age_labels <- c("10 a 14 anos", "15 a 19 anos", "20 anos ou mais")
 
 c(dir_sim_dbc, dir_sinan_dbc, dir_sih_dbc, dir_sia_dbc, dir_ibge_dbc, 
   dir_sim_csv, dir_sinan_csv, dir_sih_csv, dir_sia_csv, dir_ibge_dbc, 
-  dir_pns, dir_pisa, 
+  dir_pns, dir_pisa, dir_ibge_csv,
   dir_graficos, dir_tabelas) %>% 
   map(~ if(!dir.exists(.x)) dir.create(.x, recursive = TRUE))
 
