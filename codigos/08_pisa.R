@@ -55,7 +55,7 @@ anos <- questoes %>%
   unlist %>% 
   unique
 
-# Lista que irá receper as tabulações de cada pergunta para cada país
+# Lista que irá receber as tabulações de cada pergunta para cada país
 tabulacoes <- list()
 
 for(ano in anos){
